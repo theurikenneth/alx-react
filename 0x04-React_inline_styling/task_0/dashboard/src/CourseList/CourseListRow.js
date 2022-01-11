@@ -2,7 +2,7 @@ import React from "react";
 import PropTypes from "prop-types";
 
 const rowStyles = { backgroundColor: "#f5f5f5ab" };
-const headerRowSTyles = { backgroundColor: "#deb5b545" };
+const headerRowStyles = { backgroundColor: "#deb5b545" };
 
 function CourseListRow({ isHeader, textFirstCell, textSEcondCell }) {
   let element;
